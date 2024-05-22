@@ -1,0 +1,8 @@
+table.sweepstake-grid {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table.sweepstake-grid td {
+  border: 1px solid;
+}
