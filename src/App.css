@@ -1,6 +1,21 @@
 #root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
   text-align: center;
+}
+
+.header {
+  padding: 0.5em 1em 0 0;
+  text-align: right;
+}
+
+a {
+  font-weight: bold;
+  font-size: 0.9em;
+  color: darkblue;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 800px) {
+  #root {
+    width: 100%;
+  }
 }

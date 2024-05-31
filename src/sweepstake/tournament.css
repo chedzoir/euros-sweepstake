@@ -1,0 +1,85 @@
+.tournament {
+  height: calc(100vh - 11em);
+  overflow: scroll;
+}
+
+.tournament > div {
+  display: flex;
+}
+
+.tournament > div > div {
+  gap: 1em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 0.75em;
+}
+
+div.group,
+div.match {
+  width: 150px;
+  border: 1px solid lightgrey;
+  border-radius: 0.75em;
+}
+
+div.group {
+  margin: 0.5em 0;
+}
+
+div.match {
+  margin: 2em 0;
+}
+
+img.flag {
+  height: 100%;
+}
+
+.group .header {
+  text-align: center;
+  border-bottom: 1px solid lightgrey;
+  margin-bottom: 0.5em;
+}
+
+.country {
+  padding: 0 0.5em 0 0.25em;
+  width: 100%;
+}
+
+.country-name {
+}
+
+.entry-name {
+  font-size: 0.75em;
+}
+
+.tournament .position {
+  align-items: center;
+}
+
+.tournament .position div.flag {
+  align-items: center;
+  margin-right: 0.5em;
+  height: 2em;
+  width: 2em;
+}
+
+.tournament .position div.flag-label {
+  flex-grow: 1;
+  height: 3em;
+}
+
+.round {
+  display: flex;
+}
+
+.round-matches {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.round-header {
+  font-weight: bold;
+  font-size: 1.1em;
+}

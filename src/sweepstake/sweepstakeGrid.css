@@ -1,8 +1,43 @@
 table.sweepstake-grid {
   border-collapse: collapse;
-  width: 100%;
 }
 
 table.sweepstake-grid td {
-  border: 1px solid;
+  border: 1px solid lightgray;
+}
+
+table.sweepstake-grid td div.flag {
+  width: 1.5em;
+  height: 1.5em;
+  margin: 0 0.25em;
+}
+
+table.sweepstake-grid tr td.number {
+  padding: 0.1em 0.25em;
+}
+
+table.sweepstake-grid tr td.entrant-name {
+  padding: 0.1em 1em;
+}
+
+table.sweepstake-grid tr td.team {
+  padding: 0.1em 1em;
+}
+
+.groupStage,
+.roundOf16,
+.quarters {
+  text-decoration: line-through;
+}
+
+.semis {
+  background-color: #cd7f32;
+}
+
+.runnerUp {
+  background-color: silver;
+}
+
+.winner {
+  background-color: gold;
 }

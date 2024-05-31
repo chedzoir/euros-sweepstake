@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Germany",
+        "code": "DE",
+        "group": "A"
+    },
+    {
+        "name": "Scotland",
+        "code": "GBSCT",
+        "group": "A"
+    },
+    {
+        "name": "Hungary",
+        "code": "HU",
+        "group": "A"
+    },
+    {
+        "name": "Switzerland",
+        "code": "CH",
+        "group": "A"
+    },
+    {
+        "name": "Spain",
+        "code": "ES",
+        "group": "B"
+    },
+    {
+        "name": "Croatia",
+        "code": "HR",
+        "group": "B"
+    },
+    {
+        "name": "Italy",
+        "code": "IT",
+        "group": "B"
+    },
+    {
+        "name": "Albania",
+        "code": "AL",
+        "group": "B"
+    },
+    {
+        "name": "Slovenia",
+        "code": "SI",
+        "group": "C"
+    },
+    {
+        "name": "Denmark",
+        "code": "DK",
+        "group": "C"
+    },
+    {
+        "name": "Serbia",
+        "code": "RS",
+        "group": "C"
+    },
+    {
+        "name": "England",
+        "code": "GBENG",
+        "group": "C"
+    },
+    {
+        "name": "Poland",
+        "code": "PL",
+        "group": "D"
+    },
+    {
+        "name": "Netherlands",
+        "code": "NL",
+        "group": "D"
+    },
+    {
+        "name": "Austria",
+        "code": "AT",
+        "group": "D"
+    },
+    {
+        "name": "France",
+        "code": "FR",
+        "group": "D"
+    },
+    {
+        "name": "Belgium",
+        "code": "BE",
+        "group": "E"
+    },
+    {
+        "name": "Slovakia",
+        "code": "SK",
+        "group": "E"
+    },
+    {
+        "name": "Romania",
+        "code": "RO",
+        "group": "E"
+    },
+    {
+        "name": "Ukraine",
+        "code": "UA",
+        "group": "E"
+    },
+    {
+        "name": "Türkiye",
+        "code": "TR",
+        "group": "F"
+    },
+    {
+        "name": "Georgia",
+        "code": "GE",
+        "group": "F"
+    },
+    {
+        "name": "Portugal",
+        "code": "PT",
+        "group": "F"
+    },
+    {
+        "name": "Czechia",
+        "code": "CZ",
+        "group": "F"
+    }
+]
